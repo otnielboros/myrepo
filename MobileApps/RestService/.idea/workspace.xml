@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a22811ca-20f1-4978-bd25-79d98d023dab" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_tasks@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_tasks@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_tasks@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_tasks: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_tasks@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_tasks: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="app_user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1044252779">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.115" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.139" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.57" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="3" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.72" value="2" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="app_user" value="3" />
+          <entry key="class" value="2" />
+          <entry key="java" value="155" />
+          <entry key="properties" value="3" />
+          <entry key="sql" value="2" />
+          <entry key="tasks" value="4" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Database Element" value="7" />
+          <entry key="JAVA" value="155" />
+          <entry key="Properties" value="3" />
+          <entry key="Scratch" value="2" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="java" value="4850" />
+          <entry key="properties" value="118" />
+          <entry key="txt" value="10" />
+          <entry key="xml" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4850" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Properties" value="118" />
+          <entry key="XML" value="56" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/ResourceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/MyObservable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/RegisterController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/ResourceServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/MyMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/AuthorizationServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/AdditionalWebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Message</find>
+      <find>web</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/MyWebSocketServerEndpoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/SocketController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/HelloMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/Greeting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/ServerSocket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/TaskPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/UserResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/service/SpringBootWebsocketExampleApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/SchedulerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/HandleAfterCreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/repository/TaskRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/EventHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/Greeting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/HelloMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/GreetingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/WebSocketConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/WebUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/WebController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/HttpHanshakeInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/WebSocketController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/MyWebSocketHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/service/GenericService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/service/impl/GenericServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/NotifyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/MyMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/model/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/RxWebSocketEndpoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/RxMessage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/service/impl/Observable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/Observable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/MyObservable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/MiddlewareConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/CorsException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/CorsMiddleware.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/controller/ResourceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/AdditionalWebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/CorsFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/SimpleCorsFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yubackend/config/SecurityConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yubackend" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544652969811" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yubackend" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="yubackend.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="yubackend.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\An3\DM\RestService\src\main\resources" />
+      <recent name="D:\An3\DM\RestService\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YuBackendApplication">
+    <configuration name="SpringBootWebsocketExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="RestService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yubackend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yubackend.service.SpringBootWebsocketExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RestService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yubackend.YuBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.YuBackendApplication" />
+      <item itemvalue="Spring Boot.SpringBootWebsocketExampleApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootWebsocketExampleApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a22811ca-20f1-4978-bd25-79d98d023dab" name="Default Changelist" comment="" />
+      <created>1542019179331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542019179331</updated>
+      <workItem from="1542019182887" duration="2167000" />
+      <workItem from="1542021372505" duration="1135000" />
+      <workItem from="1542031750803" duration="2669000" />
+      <workItem from="1542050514870" duration="4887000" />
+      <workItem from="1542101358150" duration="8267000" />
+      <workItem from="1542137497519" duration="173000" />
+      <workItem from="1542197298026" duration="12685000" />
+      <workItem from="1542220040907" duration="7338000" />
+      <workItem from="1542289197138" duration="3283000" />
+      <workItem from="1542296808608" duration="23000" />
+      <workItem from="1542316763701" duration="102000" />
+      <workItem from="1542384337069" duration="3615000" />
+      <workItem from="1542389380940" duration="5964000" />
+      <workItem from="1542450143794" duration="11475000" />
+      <workItem from="1542614825186" duration="85000" />
+      <workItem from="1543397730856" duration="26095000" />
+      <workItem from="1543475198408" duration="1525000" />
+      <workItem from="1543501585785" duration="104000" />
+      <workItem from="1543581671757" duration="4604000" />
+      <workItem from="1543616908308" duration="3017000" />
+      <workItem from="1543660485073" duration="5615000" />
+      <workItem from="1543693044245" duration="1707000" />
+      <workItem from="1543751058841" duration="304000" />
+      <workItem from="1543835145781" duration="1034000" />
+      <workItem from="1543849733593" duration="6370000" />
+      <workItem from="1543913172155" duration="1276000" />
+      <workItem from="1543942815297" duration="112000" />
+      <workItem from="1544379341032" duration="8620000" />
+      <workItem from="1544422672059" duration="4328000" />
+      <workItem from="1544431598261" duration="19000" />
+      <workItem from="1544547020019" duration="976000" />
+      <workItem from="1544560374529" duration="1212000" />
+      <workItem from="1544641319885" duration="420000" />
+      <workItem from="1544642299365" duration="9668000" />
+      <workItem from="1544816058746" duration="1150000" />
+      <workItem from="1544820057761" duration="1315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143339000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.33963692" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="5" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.39836067" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3295082" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.18154311" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/yubackend/controller/ResourceController.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/yubackend/controller/ResourceController.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/yubackend/config/MyMessageHandler.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/yubackend/config/MyMessageHandler.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/yubackend/service/impl/GenericServiceImpl.java</url>
+          <line>72</line>
+          <properties class="yubackend.service.impl.GenericServiceImpl" method="save">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/yubackend/service/impl/GenericServiceImpl.java</url>
+          <line>67</line>
+          <properties class="yubackend.service.impl.GenericServiceImpl" method="findTask">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/Greeting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/service/SpringBootWebsocketExampleApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/UserResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/ServerSocket.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/SchedulerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/HandleAfterCreate.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/EventHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/HelloMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/Greeting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/HelloMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/WebSocketConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/GreetingController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/WebUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/WebController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/WebSocketController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/MyObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/repository/TaskRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/HttpHandshakeInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/NotifyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://36367034-c6e4-4375-a9a8-15d6e9d4f2f8/schema/db_tasks/table/app_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.11.RELEASE/spring-data-commons-2.0.11.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/RxMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/RxWebSocketEndpoint.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/service/impl/Observable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/model/TaskPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="21" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/service/GenericService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/service/impl/GenericServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1809#1810#0" expanded="true" />
+            <element signature="e#1857#1858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/YuBackendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/MiddlewareConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/CorsException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/CorsMiddleware.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.9.RELEASE/spring-security-config-5.0.9.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/CorsFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/SimpleCorsFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/MyObservable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/MyMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/AdditionalWebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yubackend/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

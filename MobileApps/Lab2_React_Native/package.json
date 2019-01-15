@@ -1,0 +1,30 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^30.0.2",
+    "expo-sensors": "^1.1.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-axios": "^0.17.1",
+    "react-native-device-brightness": "^1.2.0",
+    "react-native-screen-brightness": "^0.3.2",
+    "react-native-sensor-manager": "^0.1.10",
+    "react-native-sensors": "^5.1.4",
+    "react-native-system-setting": "^1.7.0",
+    "react-native-system-settings": "^1.0.4",
+    "react-navigation": "^2.18.2",
+    "react-stomp": "^4.0.0",
+    "rxjs": "^6.3.3",
+    "sockjs": "^0.3.19",
+    "yarn": "^1.12.3"
+  }
+}

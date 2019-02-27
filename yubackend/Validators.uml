@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ro.yuhuu.backend.yubackend.validators</OriginalElement>
+  <nodes>
+    <node x="0.0" y="229.0">ro.yuhuu.backend.yubackend.validators.RegisterApplicantValidator</node>
+    <node x="323.0" y="229.0">ro.yuhuu.backend.yubackend.validators.RegisterInternshipValidator</node>
+    <node x="0.0" y="0.0">ro.yuhuu.backend.yubackend.validators.RegisterCompanyValidator</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="134.5" y="245.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
